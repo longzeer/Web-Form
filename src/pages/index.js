@@ -1,6 +1,6 @@
 import React from 'react';
 import HomePage from '../components/HomePage';
-import '../styles/globals.css'
+import '../styles/styles.css'
 
 const Home = () => {
   return (
